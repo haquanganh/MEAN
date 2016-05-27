@@ -1,0 +1,16 @@
+.welcome{
+    text-align: center;
+    color: blue;
+    background: #ccc;
+}
+.navbar{
+    margin: 0!important;
+    padding: 0!important;
+}
+.navbar a{
+    background: orange;
+    color: #ffffff;
+}
+.navbar a:hover{
+    color: red;
+}
